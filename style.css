@@ -1,0 +1,79 @@
+.navbar a {
+	font: 13px Arial;
+	color: #404040;
+}
+.navbar li {
+	display: inline-block;
+}
+
+.menu {
+	position:absolute;
+	left: 75%;
+}
+
+.main {
+	height: 250px;
+	width: 980px;
+	padding: 75px 50px 50px 50px;
+}
+.google-main {
+	margin: 0;
+	position: fixed;
+	left: 50%;
+	margin-left: -245px;
+}
+
+.forms {
+	padding: 20px;
+}
+
+#search-field {
+	width: 550px;
+	height: 25px;
+	margin-left: -50px;
+}
+
+.button-field {
+	padding-top: 20px;
+	position: absolute;
+	left: 25%;
+}
+
+
+.buttons {
+	display: inline-block;
+	padding: 1px 9px 1px 9px;
+	letter-spacing: 0.25px;
+	color: #404040;
+	background: #f5f5f5;
+	font: bold 11px/27px Arial;
+	border-style: solid;
+	border-radius: 2.5px;
+	border-width: 1px;
+	border-color: #D0D0D0;
+}
+
+#gsearch {
+	margin-right: 5px;
+}
+
+#lucky {
+	margin-left:5px;
+}
+
+.googleoffers {
+	font: 13px Arial;
+	position: absolute;
+	top: 130%;
+	left: 20%;
+}
+
+a{
+	padding-left: 8px;
+	text-decoration: none;
+}
+
+a:hover{
+	padding-left: 8px;
+	text-decoration: underline;
+}
